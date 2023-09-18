@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/7dc9eb4699e2450e.css",{"as":"style"}]
-0:["BJQUOrMZY5h_w6YXmQHZl",[[["",{"children":["topic",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7dc9eb4699e2450e.css","precedence":"next"}]],"$L3"]]]]
+0:["BjIcTRJaPHKI60FoaLqnr",[[["",{"children":["topic",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7dc9eb4699e2450e.css","precedence":"next"}]],"$L3"]]]]
 4:I{"id":1581,"chunks":["185:static/chunks/app/layout-17a134da0a181a5e.js"],"name":"","async":false}
 5:I{"id":8732,"chunks":["185:static/chunks/app/layout-17a134da0a181a5e.js"],"name":"","async":false}
 6:"$Sreact.suspense"
